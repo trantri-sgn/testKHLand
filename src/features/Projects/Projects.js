@@ -64,10 +64,7 @@ const Projects = () => {
               <Link className="view-more">Xem chi tiết</Link>
             </div>
             <div>
-              <div
-                className="arrows left"
-                onClick={() => console.log("ddd")}
-              ></div>
+              <div className="arrows left"></div>
               <div className="arrows right"></div>
               <Link className="view-all">xem thêm</Link>
             </div>
